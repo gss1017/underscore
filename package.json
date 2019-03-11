@@ -1,6 +1,6 @@
 {
   "name": "underscore",
-  "description": "JavaScript's functional programming helper library.",
+  "description": "underscore 源代码学习",
   "homepage": "http://underscorejs.org",
   "keywords": [
     "util",
